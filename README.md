@@ -1,6 +1,10 @@
 # Analise de Dados - Portal da transparênica 2025
 Análise exploratória de dados públicos do Portal da Transparência sobre viagens a serviço de servidores públicos federais em 2025
 
+## Tabelas usadas
+https://drive.google.com/file/d/17YXxEHX7nMMY5EW937ONCH5S0s-U8cBo/view?usp=drive_link (2025_Viagem)
+https://drive.google.com/file/d/1bSjqOJUqq5c4CRzE3_Q-uzeTUtpd-TLf/view?usp=drive_link (2025_Passagem)
+
 ## Tecnologias Utilizadas
 - Python 3
 - Pandas
